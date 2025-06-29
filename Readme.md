@@ -119,10 +119,10 @@ comp-lzo
 verb 4
 explicit-exit-notify 1
 ```
-### VPN Server set can be automated by using the ```install-openvpn.sh``` scripts using the work-flow
+### VPN Server set up can be automated by using the ```install-openvpn.sh``` scripts using the work-flow
 
 ```bash
-wget https://github.com/Anamelechi/ -O install-openvpn.sh
+wget https://github.com/Anamelechi/secure-openvpn-server/install-openvpn.sh -O install-openvpn.sh
 
 sudo chmod +x install-openvpn.sh
 
